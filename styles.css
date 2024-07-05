@@ -202,6 +202,7 @@ a:hover {
 
 .overview-link:hover {
   text-decoration: none;
+  color: white;
 }
 
 .overview-button:hover {
