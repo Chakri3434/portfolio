@@ -196,18 +196,27 @@ a:hover {
   color: black;
   background-color: white;
   padding: 10px 14px;
-  border-radius: 18px;
+  border-radius: 30px;
   font-weight: 700;
+}
+
+.overview-link:hover {
+  text-decoration: none;
 }
 
 .overview-button:hover {
   color: white;
   background-color: black;
+
+  .overview-link {
+    color: white;
+  }
 }
 
 .heading {
   font-size: 24px;
   margin-top: 280px;
+  margin-bottom: 50px;
   text-align: center;
   line-height: 8px;
   text-wrap: nowrap;
