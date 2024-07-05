@@ -207,11 +207,7 @@ a:hover {
 
 .overview-button:hover {
   color: white;
-  background-color: black;
-
-  .overview-link {
-    color: white;
-  }
+  background-color: lightgray;
 }
 
 .heading {
